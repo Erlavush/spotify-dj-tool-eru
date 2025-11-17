@@ -102,7 +102,8 @@ Random Forest model trained on audio features and genre. Note: Accuracy is limit
 
 ## Screenshots
 
-*Dashboard showing mood distribution and genre insights* ![Dashboard](link-to-screenshot-if-you-want)
+*DJ mixing tab where you can search for a song or an artist and find compatible tracks for mixing* <img width="1839" height="915" alt="image" src="https://github.com/user-attachments/assets/e4c04514-a0c0-4d82-95a2-7058a9ffd015" />
+
 
 ------------------------------------------------------------------------
 
