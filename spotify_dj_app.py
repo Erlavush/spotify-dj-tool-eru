@@ -625,8 +625,8 @@ with tab4:
         
         # FIXED EXPLANATION
         st.warning("""
-        **The model accuracy is low because of:**
-        rrack popularity depends heavily on factors NOT in this dataset:
+        **The model accuracy is low because **
+         popularity depends heavily on factors NOT in this dataset:
         - **Artist Fame** - Popular artists get more streams regardless of song quality
         - **Marketing Budget** - Promoted songs get more visibility
         - **Social Media** - TikTok trends can make songs viral overnight
@@ -738,6 +738,6 @@ st.markdown("---")
 st.markdown("""
     <div style='text-align: center; color: #535353; padding: 20px;'>
         <p>🎧 Spotify DJ & Analytics Platform | Built with Streamlit & Scikit-learn | Erudesu</p>
-        <p style='font-size: 0.9rem;'>Dataset: {tracks:,} tracks • {genres} genres • Camelot Wheel System • ML-Powered</p>
+        <p style='font-size: 0.9rem;'>Dataset: {tracks:,} tracks • {genres} genres • Camelot Wheel System • Spotify New Mixing Feature Inspired</p>
     </div>
 """.format(tracks=len(df), genres=df['track_genre'].nunique()), unsafe_allow_html=True)
