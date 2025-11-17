@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.joblib
+download_data.py
+explore_data.py
+explore_spotify.py
+create_mood_clusters.py
+add_camelot_keys.py
+movies_data.csv
+spotify_data.csv
+spotify_with_moods.csv
+movie-analytics-app/
