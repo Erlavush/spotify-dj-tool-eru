@@ -625,8 +625,8 @@ with tab4:
         
         # FIXED EXPLANATION
         st.warning("""
-        **The model accuracy is low because **
-         popularity depends heavily on factors NOT in this dataset:
+         The model accuracy is low because
+         popularity depends heavily on factors **NOT** in this dataset:
         - **Artist Fame** - Popular artists get more streams regardless of song quality
         - **Marketing Budget** - Promoted songs get more visibility
         - **Social Media** - TikTok trends can make songs viral overnight
